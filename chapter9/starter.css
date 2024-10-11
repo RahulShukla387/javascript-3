@@ -23,6 +23,9 @@ body {
     margin-right: 1rem;
   }
   
-  #description {
+  /* #description {
     background-color: antiquewhite;
+  } */
+  .background{
+    background-color: firebrick;
   }
